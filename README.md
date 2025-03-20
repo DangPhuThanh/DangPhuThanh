@@ -8,7 +8,7 @@
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
 
-> ✍ I'm a studemt of: [Sai Gon University] (https://sgu.edu.vn) (SGU)
+> ✍ I'm a studemt of: [Sai Gon University https://sgu.edu.vn] (SGU)
 
 <br />
 
