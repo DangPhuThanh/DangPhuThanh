@@ -31,7 +31,7 @@
   <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
-  <a href="mailto:tiennhm.it@gmail.com" alt="Email">
+  <a href="thanhnopro147@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
@@ -60,8 +60,6 @@
 
 
 # Certificates:
-   <img align src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg" />
-
 ![Alternative Text](https://github.com/user-attachments/assets/bd6f9755-159b-4f15-a768-12547ac64e6b)
 
 </body>
