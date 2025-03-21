@@ -48,49 +48,7 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <!DOCTYPE html>
-<html lang="vi">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Top Ngôn Ngữ Được Dùng</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            width: 300px;
-            margin: 20px auto;
-        }
-        .chart-container {
-            width: 100%;
-            background: #eee;
-            padding: 10px;
-            border-radius: 5px;
-        }
-        .bar {
-            height: 30px;
-            margin: 5px 0;
-            border-radius: 5px;
-            color: white;
-            text-align: center;
-            line-height: 30px;
-            font-weight: bold;
-        }
-        .cpp { width: 60%; background: #f34b7d; }
-        .python { width: 30%; background: #3572A5; }
-        .html { width: 10%; background: #e34c26; }
-    </style>
-</head>
-<body>
-
-    <h2>Top Ngôn Ngữ Được Dùng</h2>
-    <div class="chart-container">
-        <div class="bar cpp">C++ 60%</div>
-        <div class="bar python">Python 30%</div>
-        <div class="bar html">HTML 10%</div>
-    </div>
-
-</body>
-</html>username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&langs_count=3&custom_title=Top%20ngôn%20ngữ%20được%20dùng&hide_title=false&hide=c++:40%,python:70%,html:90%" alt="tiennhm" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
     </td>
     <td>
@@ -100,6 +58,7 @@
     </td>
   </tr>
 </table>
+
 
 
 # Certificates:
