@@ -5,7 +5,11 @@
 
 <h2 align="center">Hi 👋, I'm Dang Phu Thanh </h2>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+<h3 align="center">
+  A passionate developer from Vietnam
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" alt="Vietnam Flag" width="24px">
+</h3>
+
 </p>
 
 > ✍ I'm a studemt of: [Sai Gon University](https://sgu.edu.vn) (SGU)
