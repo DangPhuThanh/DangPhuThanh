@@ -25,9 +25,6 @@
   <a href="https://github.com/DangPhuThanh" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
- <a href="[htttps://thanhnopro147@gmail.com](https://mail.google.com/mail/u/0/#inbox)" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
 </p>
 
 ## Skills:
