@@ -64,16 +64,5 @@
 # Certificates:
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
-<!DOCTYPE html>
-<html lang="vi">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hiển thị hình ảnh</title>
-</head>
-<body>
-    <h2>Hình ảnh của bạn</h2>
-    <img src="sandbox:/mnt/data/z6429870574411_42c0d887d57cf8e25c7f9893b68f3d33.jpg" alt="Hình ảnh" width="500">
-</body>
-</html>
+<img src="https://github.com/DangPhuThanh/dangphuthanh4137.github.com/blob/gh-pages/z6429870574411_42c0d887d57cf8e25c7f9893b68f3d33%20(1).jpg"
 
