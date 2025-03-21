@@ -48,8 +48,8 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&langs_count=3&custom_title=Top%20ng%C3%B4n%20ng%E1%BB%AF%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B9ng&hide=CSS,JavaScript,TypeScript,Java,Go,Ruby,PHP" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20tr%C3%AAn%20Github" alt="tiennhm" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&langs_count=3&custom_title=Top%20ngôn%20ngữ%20được%20dùng&hide_title=false&hide=c++:40%,python:70%,html:90%" alt="tiennhm" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
     </td>
     <td>
       <p align="center"> 
@@ -58,6 +58,7 @@
     </td>
   </tr>
 </table>
+
 
 # Certificates:
 
