@@ -62,21 +62,8 @@
 
 
 # Certificates:
+    <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg"
 
-<!DOCTYPE html>
-<html lang="vi">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hiển thị hình ảnh</title>
-</head>
-<body>
-    <!-- Hình ảnh từ GitHub Assets -->
-    <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg" alt="GitHub Profile">
-
-    <!-- Hình ảnh từ GitHub repository -->
-    <img src="https://raw.githubusercontent.com/DangPhuThanh/dangphuthanh4137.github.com/gh-pages/z6429870574411_42c0d887d57cf8e25c7f9893b68f3d33%20(1).jpg" 
-         alt="Hình ảnh từ GitHub" width="500">
 </body>
 </html>
 
