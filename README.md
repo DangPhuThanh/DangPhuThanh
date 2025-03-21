@@ -22,8 +22,8 @@
   <a href="https://linkedin.com/in/tien-nhm" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="[https://www.facebook.com/share/16L3FtG8G4/?mibextid=wwXIfr]" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+<a href="https://www.facebook.com/share/16L3FtG8G4/?mibextid=wwXIfr" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook">
   </a> 
   <a href="https://github.com/TienNHM" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
