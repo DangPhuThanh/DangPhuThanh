@@ -60,9 +60,9 @@
 
 
 # Certificates:
-   <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg" />
+   <img align src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg" />
 
-<img align="right" width="400" src="https://github.com/user-attachments/assets/bd6f9755-159b-4f15-a768-12547ac64e6b)"
+![Alternative Text](https://github.com/user-attachments/assets/bd6f9755-159b-4f15-a768-12547ac64e6b)
 
 </body>
 </html>
