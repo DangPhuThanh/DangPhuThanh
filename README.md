@@ -15,7 +15,7 @@
 
 <br />
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 ## 📫 How to reach me:
 
 <p align="center">
@@ -26,20 +26,20 @@
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
 </p>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 ## Skills:
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
   
 </p>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 ## My homeworks:
 
 <a href=https://github.com/DangPhuThanh/DangPhuThanh/tree/gh-pages>
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Call-me-Ren&repo=CTDL-GT&theme=radical" />
 </a>
 <a href="https://github.com/vhttam/BT_Nhom/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Call-me-Ren&repo=Nhom-code-CTDL-GT&theme=merko" />
 </a>   
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
