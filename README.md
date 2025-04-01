@@ -36,7 +36,11 @@
 <a href=https://github.com/DangPhuThanh/DangPhuThanh/tree/gh-pages>
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Call-me-Ren&repo=CTDL-GT&theme=radical" />
-</a>    
+</a>
+<a href="https://github.com/vhttam/BT_Nhom/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Call-me-Ren&repo=Nhom-code-CTDL-GT&theme=merko" />
+</a>   
 
 ## Activities:
 <table style="width:100%;">
