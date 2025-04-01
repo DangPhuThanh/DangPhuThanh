@@ -17,7 +17,7 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 ## 📫 How to reach me:
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <p align="center">
 <a href="https://www.facebook.com/share/16L3FtG8G4/?mibextid=wwXIfr" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook">
@@ -33,6 +33,7 @@
 </p>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 ## My homeworks:
+
 <a href=https://github.com/DangPhuThanh/DangPhuThanh/tree/gh-pages>
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Call-me-Ren&repo=CTDL-GT&theme=radical" />
