@@ -42,7 +42,7 @@
   
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Call-me-Ren&repo=Nhom-code-CTDL-GT&theme=merko" />
 </a>   
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 ## Activities:
 <table style="width:100%;">
   <tr>
