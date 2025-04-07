@@ -11,7 +11,7 @@
 
 </p>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-> ✍ I'm a studemt of: <a href="https://sgu.edu.vn">Sai Gon University</a> (SGU)
+> ✍ I'm a student of: <a href="https://sgu.edu.vn">Sai Gon University</a> (SGU)
 
 
 <br />
